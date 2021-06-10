@@ -1,0 +1,54 @@
+_repo: Dissociations_65449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Le Danois, N.
+    - L'Ymagier
+    - Coffe, M.
+    - Gourmont, Remi de
+    - De Gourmont, Remy
+    - Drexelius, J.
+    - Gourmont, Rémy de
+    - Gourmont, Remye
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Remy_de_Gourmont
+    - https://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+description: ''
+gutenberg_issued: '2021-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65449'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French essays'
+- GITenberg
+tableOfContents: Sur la Religion -- La Jalousie -- L'Astrologie -- L'Age -- Le Bonheur
+  -- Un Centenaire -- La Naïveté -- Le Baiser -- Le bel Animal -- L'Animal fou --
+  Le Chien qui parle -- Tu et Toi -- Le Menu -- Les Bossus -- Le petit Verre -- Le
+  courant d'Air -- Le poison de l'Or -- Un Assassinat -- Témoignages -- Voleurs et
+  Volés -- L'Indocile -- Le Collier -- La Houille -- La Barbe -- Le Milliardaire --
+  Mlle Villany -- Diplômées -- Tribunaux -- Suicide -- Combats -- Le Progrès -- Un
+  Aphorisme -- Renaissance -- L'Homme tertiaire -- Noms d'Églises -- En Chine -- Des
+  Miracles -- Croyances -- La Tromperie -- Le Merveilleux -- Le Temps qu'il fait --
+  L'Été -- Le secret des Lettres -- Les Jeux -- Les Écoles -- Le Bourgmestre -- Inaugurations
+  -- Les sept Merveilles -- L'Homme qui sort -- La «Marseillaise» -- En Vitesse! --
+  Repos Hebdomadaire -- L'Abolitionnisme -- Les Favorisés -- Raisonnements -- Les
+  Forêts -- Circulation -- Fonctionnaires -- Panama -- Querelles d'États -- Le Système
+  métrique -- Sur le Jury -- Les conquêtes de la Censure -- Le Mariage -- Célibataires
+  -- Les Exploitées -- Procès d'Animaux -- Les Moineaux -- Nationalisme -- Administrations
+  -- Statistique -- Mystères de la statistique -- Municipes -- La beauté de Paris
+  -- Paris futur -- Le vieux Paris -- Cimetières -- L'automne -- Vision d'été -- La
+  fête du muguet -- Plaisirs forains -- Dévastations -- La vie d'une ville -- Le vandalisme
+  -- Le buste -- Architectes.
+title: Dissociations
+url: http://www.gutenberg.org/ebooks/65449

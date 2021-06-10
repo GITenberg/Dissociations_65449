@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <pgterms:ebook rdf:about="ebooks/65449">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/65449.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240500</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N11f6ef973f1048dd82215756d317e912">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T18:00:13.434265</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/65449.kindle.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">665696</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N45e9acd979914c6c8603a000018b9538">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T18:00:14.689276</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nf2715787793d4686985dbd58e8680323">
+        <rdf:value>PQ</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/65449/65449-h/65449-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T16:51:03</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Necd0eeaa4503410d89b5063795f6b4ba">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222251</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-05-26</dcterms:issued>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/6996">
+        <pgterms:alias>Gourmont, Remi de</pgterms:alias>
+        <pgterms:alias>De Gourmont, Remy</pgterms:alias>
+        <pgterms:alias>Drexelius, J.</pgterms:alias>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1915</pgterms:deathdate>
+        <pgterms:alias>Gourmont, Remye</pgterms:alias>
+        <pgterms:alias>L'Ymagier</pgterms:alias>
+        <pgterms:alias>Coffe, M.</pgterms:alias>
+        <pgterms:alias>Gourmont, Rémy de</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://fr.wikipedia.org/wiki/Remy_de_Gourmont"/>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont"/>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1858</pgterms:birthdate>
+        <pgterms:name>Gourmont, Remy de</pgterms:name>
+        <pgterms:alias>Le Danois, N.</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">440</pgterms:downloads>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nfc98f48f202a4ad2bc12e4d15bc9e13b">
+        <rdf:value>French essays</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/65449/65449-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Naa81abf522f848e48a04ab7cbb5a3aaf">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148384</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc5d93d77098342cb87504c3f24a46811">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T16:51:07</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/65449/pg65449.cover.medium.jpg">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T18:00:15.701327</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13532</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na73eec8077c247c4b127056a2a5046ba">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:title>Dissociations</dcterms:title>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nb6c0b4a11ba745c7a3f068ac8fb0bc99">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/65449/65449-0.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2caa9ffdb4874ef38688aae06e73d76e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7805eef158fb43188d773d9b31c17177">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77371</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T16:51:07</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/65449/pg65449.cover.small.jpg">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2430</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T18:00:15.673299</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N71875573b486492e98c24d6ab1788c4d">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:tableOfContents>Sur la Religion -- La Jalousie -- L'Astrologie -- L'Age -- Le Bonheur -- Un Centenaire -- La Naïveté -- Le Baiser -- Le bel Animal -- L'Animal fou -- Le Chien qui parle -- Tu et Toi -- Le Menu -- Les Bossus -- Le petit Verre -- Le courant d'Air -- Le poison de l'Or -- Un Assassinat -- Témoignages -- Voleurs et Volés -- L'Indocile -- Le Collier -- La Houille -- La Barbe -- Le Milliardaire -- Mlle Villany -- Diplômées -- Tribunaux -- Suicide -- Combats -- Le Progrès -- Un Aphorisme -- Renaissance -- L'Homme tertiaire -- Noms d'Églises -- En Chine -- Des Miracles -- Croyances -- La Tromperie -- Le Merveilleux -- Le Temps qu'il fait -- L'Été -- Le secret des Lettres -- Les Jeux -- Les Écoles -- Le Bourgmestre -- Inaugurations -- Les sept Merveilles -- L'Homme qui sort -- La «Marseillaise» -- En Vitesse! -- Repos Hebdomadaire -- L'Abolitionnisme -- Les Favorisés -- Raisonnements -- Les Forêts -- Circulation -- Fonctionnaires -- Panama -- Querelles d'États -- Le Système métrique -- Sur le Jury -- Les conquêtes de la Censure -- Le Mariage -- Célibataires -- Les Exploitées -- Procès d'Animaux -- Les Moineaux -- Nationalisme -- Administrations -- Statistique -- Mystères de la statistique -- Municipes -- La beauté de Paris -- Paris futur -- Le vieux Paris -- Cimetières -- L'automne -- Vision d'été -- La fête du muguet -- Plaisirs forains -- Dévastations -- La vie d'une ville -- Le vandalisme -- Le buste -- Architectes.</dcterms:tableOfContents>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/65449/65449-0.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T16:51:03</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200914</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N14386b79531f4d4b9b18c8f9294f17a4">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/65449.kindle.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N273759e7c4e8421696d6fcac95d21b03">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656176</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T18:00:15.642257</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/65449.epub.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N88dcc77410a348d68482e4ff0bf29121">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235680</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T18:00:13.814256</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N3bc1ce4dde15480c9a4fc5e84d1d9a8e">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">fr</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/65449.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/65449"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6736</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6ed1d9034b4f4df8a9a62b5f0337f599">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-26T18:00:15.748242</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://fr.wikipedia.org/wiki/Remy_de_Gourmont">
+    <dcterms:description>fr.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
